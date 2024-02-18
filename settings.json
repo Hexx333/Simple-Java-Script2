@@ -1,0 +1,18 @@
+{
+    "C_Cpp.default.compilerPath": "",
+    "cmake.configureOnOpen": true,
+    "cmake.showOptionsMovedNotification": false,
+    "grunt.autoDetect": "on",
+    "remote.tunnels.access.hostNameOverride": "my-server",
+    "files.autoSave": "afterDelay",
+    "security.allowedUNCHosts": [
+        "my-server"
+    ],
+    "extensions.experimental.affinity": {
+        "background.gf": 1
+    },
+    "remote.SSH.serverInstallPath": {
+        ".grunt": "3"}
+        {"request": "launch"
+    }
+}
